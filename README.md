@@ -1,1 +1,1 @@
-# hackerdestiny
+# Open redirect checking tool
